@@ -17,8 +17,6 @@ cdir = os.getcwd()
 total = []
 
 print("cut one head off, another shall take it's place")
-print('\n made in doyles class')
-print("\n this is war NERDS.")
 
 
 def havefun():
